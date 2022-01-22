@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake svg](https://github.com/erdaldemirci/erdaldemirci/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **erdaldemirci/erdaldemirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
